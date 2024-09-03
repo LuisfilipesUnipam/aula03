@@ -1,0 +1,15 @@
+/workspaces/aula03/aula07/bin/Debug/net8.0/aula07
+/workspaces/aula03/aula07/bin/Debug/net8.0/aula07.deps.json
+/workspaces/aula03/aula07/bin/Debug/net8.0/aula07.runtimeconfig.json
+/workspaces/aula03/aula07/bin/Debug/net8.0/aula07.dll
+/workspaces/aula03/aula07/bin/Debug/net8.0/aula07.pdb
+/workspaces/aula03/aula07/obj/Debug/net8.0/aula07.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/aula03/aula07/obj/Debug/net8.0/aula07.AssemblyInfoInputs.cache
+/workspaces/aula03/aula07/obj/Debug/net8.0/aula07.AssemblyInfo.cs
+/workspaces/aula03/aula07/obj/Debug/net8.0/aula07.csproj.CoreCompileInputs.cache
+/workspaces/aula03/aula07/obj/Debug/net8.0/aula07.sourcelink.json
+/workspaces/aula03/aula07/obj/Debug/net8.0/aula07.dll
+/workspaces/aula03/aula07/obj/Debug/net8.0/refint/aula07.dll
+/workspaces/aula03/aula07/obj/Debug/net8.0/aula07.pdb
+/workspaces/aula03/aula07/obj/Debug/net8.0/aula07.genruntimeconfig.cache
+/workspaces/aula03/aula07/obj/Debug/net8.0/ref/aula07.dll
