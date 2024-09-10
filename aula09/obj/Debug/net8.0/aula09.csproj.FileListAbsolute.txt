@@ -1,0 +1,5 @@
+/workspaces/aula03/aula09/obj/Debug/net8.0/aula09.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/aula03/aula09/obj/Debug/net8.0/aula09.AssemblyInfoInputs.cache
+/workspaces/aula03/aula09/obj/Debug/net8.0/aula09.AssemblyInfo.cs
+/workspaces/aula03/aula09/obj/Debug/net8.0/aula09.csproj.CoreCompileInputs.cache
+/workspaces/aula03/aula09/obj/Debug/net8.0/aula09.sourcelink.json
