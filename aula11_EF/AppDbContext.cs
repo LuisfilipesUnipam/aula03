@@ -7,7 +7,7 @@ public class AppDbContext : DbContext{
     public DbSet<Venda> Vendas {get; set;}
 
     protected override void OnCofiguring(DbContextOptionsBuilder optionsBuilder){
-        optionsBuilder.UserSqlite("Data Source=vendas.db");
+        optionsBuilder.UseSqlite("Data Source=vendas.db");
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder){

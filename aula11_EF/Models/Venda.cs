@@ -26,7 +26,7 @@ namespace aula11_EF.Models{
             return Livros.Sum(l => l.Preco);
         }
 
-        public override ToString(){
+        public override string ToString(){
             string livrosStr = string.Join(", ", Livros.Select(l => l.Nome));
             return $"Venda para {Cliente.Nome}, Livro: [{livrosStr}], Total: {CalcularTotal():c}";
         }
